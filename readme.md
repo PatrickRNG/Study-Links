@@ -1,4 +1,4 @@
-### Study Links
+## Study Links
 
 [2018 Web developer roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)  
 Tudo que  você precisa saber para ser um desenvolvedor Front, Back ou Devops em 2018  
@@ -8,7 +8,7 @@ EN free
 EN free
 
 
-#### Youtube
+### Youtube
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb)  
 Melhor canal para desenvolvimento web  
 EN free
@@ -25,7 +25,7 @@ EN free
 EN free
 
 
-#### Blogs
+### Blogs
 [Medium](https://medium.com/topic/technology)  
 Um dos melhores blogs de assuntos diferentes, com tutoriais, simples até complexos, teoria e discussões  
 EN/PT free
@@ -37,7 +37,7 @@ EN free
 BR free
 
 
-#### Books
+### Books
 [You dont know JS](https://github.com/getify/You-Dont-Know-JS)  
 Série de livros sobre as partes mais complexas de Javascript  
 ebook EN free
@@ -55,7 +55,7 @@ EN paid
 BR/EN paid
 
 
-#### Web Courses
+### Web Courses
 [Coding the smart way](https://codingthesmartway.com/courses/)  
 Cursos relacionados a desenvolvimento web  
 EN free
@@ -66,21 +66,19 @@ Curso completo em web
 EN free
 
 
-#### Other Resources
+### Other Resources
 [Google Codelabs](https://codelabs.developers.google.com/)  
 EN free
 
 [Google web starter kit](https://tableless.com.br/google-web-starter-kit/)  
 EN free
 
-
-#### Javascript
+### Javascript
 [MDN documentation](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
 Desde tutoriais até explicações complexas  
 BR/EN free
 
-
-[Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)  
+[Fun Fun Function (youtube)](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)  
 Conceitos mais complexos de Javascript  
 EN free
 
@@ -88,17 +86,16 @@ EN free
 Javascript articles, tips and tricks  
 EN free
 
-[ES6 Learnign github](https://github.com/ericdouglas/ES6-Learning)  
+[ES6 Learning github](https://github.com/ericdouglas/ES6-Learning)  
 Lista de recursos sobre Javascript ES6  
 EN free
 
-[Udemy - Understand Javasript](https://www.udemy.com/understand-javascript/)  
+[Udemy - Understand Javascript](https://www.udemy.com/understand-javascript/)  
 Entendendo conceitos avançados  
 EN free
 
 
-
-#### Angular
+### Angular
 [The complete guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/?pmtag=FULLMUDEMAY&siteID=a1o1REVAqJg-t32ec1UUs87aVtVLEGK.AA&LSNPUBID=a1o1REVAqJg)  
 Udemy Angular guide  
 EN paid
@@ -115,13 +112,13 @@ BR paid
 Node  
 EN paid
 
-#### Webpack
+### Webpack
 [Webpack 2 the complete developers guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/?siteID=a1o1REVAqJg-HNAA3grAbnixBYJWlHg_MA&LSNPUBID=a1o1REVAqJg)  
 Complete Webpack guide  
 EN paid
 
 
-#### SASS
+### SASS
 [The sass way](http://thesassway.com/)  
 Learn Sass projects/snippets  
 EN free
@@ -131,7 +128,7 @@ Compilar Sass com Gulp
 BR free
 
 
-#### Vue.js
+### Vue.js
 [Conheça Vue.js](https://tableless.com.br/conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos/)  
 Conhecendo Vue.js  
 BR free
