@@ -1,6 +1,3 @@
-#329a26 green
-#ff5c57 red
-
 ### Study Links
 
 [2018 Web developer roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
