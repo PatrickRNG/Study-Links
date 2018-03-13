@@ -28,7 +28,7 @@ EN free
 ### Blogs
 [Medium](https://medium.com/topic/technology)  
 Um dos melhores blogs de assuntos diferentes, com tutoriais, simples até complexos, teoria e discussões  
-EN/PT free
+BR/EN free
 
 [FreeCodeCamp Medium](https://medium.freecodecamp.org/)  
 EN free
@@ -36,6 +36,19 @@ EN free
 [Tableless](https://tableless.com.br/ )  
 BR free
 
+
+### Articles
+[Web Field Manual](https://webfieldmanual.com/code.html)  
+Bastante conteúdo de boas práticas no desenvolvimento  
+EN free
+
+[Dao of Web](http://alistapart.com/article/dao)  
+Um artigo sobre design geral de páginas  
+EN free
+
+[Responsive Web design](http://alistapart.com/article/responsive-web-design)  
+Artigo sobre design responsivo de páginas  
+EN free
 
 ### Books
 [You dont know JS](https://github.com/getify/You-Dont-Know-JS)  
@@ -95,6 +108,12 @@ Entendendo conceitos avançados
 EN free
 
 
+### CSS
+[CSS Tricks](https://css-tricks.com/)  
+Fórum e tutorias de CSS (principalmente)  
+EN free
+
+
 ### Angular
 [The complete guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/?pmtag=FULLMUDEMAY&siteID=a1o1REVAqJg-t32ec1UUs87aVtVLEGK.AA&LSNPUBID=a1o1REVAqJg)  
 Udemy Angular guide  
@@ -140,3 +159,38 @@ free
 [Vue.js Brasil](http://www.vuejs-brasil.com.br/)  
 Artigos sobre Vue.js  
 BR free
+
+
+### Challenge websites
+[Leet Code](https://leetcode.com/)  
+Desafios de lógica  
+EN free
+
+[Code Wars](https://www.codewars.com/)  
+Desafios de lógica  
+EN free
+
+[Hacker Rank](https://www.hackerrank.com/)  
+Desafios de lógica  
+EN free
+
+### Inspiration websites/designs
+[Dribble](https://dribbble.com/)  
+Rede social para designers  
+BR/EN free/paid
+
+[Codepen](http://codepen.io/)  
+Site para compartilhar/criar aplicações/código  
+BR/EN free
+
+[Behance](https://www.behance.net/)  
+Rede social para designers  
+BR/EN free
+
+[Collect UI](http://collectui.com/)  
+Coleção de UIs do Daily UI  
+EN/BR free
+
+[Daily UI](http://www.dailyui.co/)  
+Desafio de um design por dia por 100 dias  
+EN free
