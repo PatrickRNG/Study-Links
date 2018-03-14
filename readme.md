@@ -122,7 +122,7 @@ EN free
 
 [Udemy - Understand Javascript](https://www.udemy.com/understand-javascript/)  
 Entendendo conceitos avançados  
-EN free
+EN paid
 
 [Modern javascript explained for dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)  
 Entendendo como funciona Javascript moderno  
