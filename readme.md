@@ -50,6 +50,19 @@ EN free
 Artigo sobre design responsivo de páginas  
 EN free
 
+[How we build our first fullstack javascript webapp - Medium](https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c)  
+Como foi construido um web app em 3 semanas  
+EN free
+
+[I want to learn Javascript](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)  
+Como um cara começou a aprender Javascript step-by-step  
+EN free
+
+[10 Pricefull resources for javascript learners](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)  
+10 Recursos essensiais para quem está aprendendo Javascriot
+EN free
+
+
 ### Books
 [You dont know JS](https://github.com/getify/You-Dont-Know-JS)  
 Série de livros sobre as partes mais complexas de Javascript  
@@ -66,6 +79,10 @@ EN paid
 
 [O design do dia a dia](https://www.livrariacultura.com.br/p/livros/artes-e-fotografia/design/o-design-do-dia-a-dia-1796507)  
 BR/EN paid
+
+[12 books every javascript developer should read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)  
+!2 Livros que todo desenvolvedor Javascript deve ler
+EN free
 
 
 ### Web Courses
@@ -107,6 +124,17 @@ EN free
 Entendendo conceitos avançados  
 EN free
 
+[Modern javascript explained for dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)  
+Entendendo como funciona Javascript moderno  
+EN free
+
+[Giant javascript basic course - Freecodecamp Medium](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)  
+Curso completo do básico do Javascript  
+EN free
+
+[The two pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)  
+Os dois pilares do Javascript  
+EN free
 
 ### CSS
 [CSS Tricks](https://css-tricks.com/)  
@@ -172,6 +200,10 @@ EN free
 
 [Hacker Rank](https://www.hackerrank.com/)  
 Desafios de lógica  
+EN free
+
+[FreecodeCamp challenges](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript)  
+Alguns challenges do básico ao avançado do curso do FreecodeCamp  
 EN free
 
 ### Inspiration websites/designs
