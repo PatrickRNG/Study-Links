@@ -59,7 +59,7 @@ Como um cara começou a aprender Javascript step-by-step
 EN free
 
 [10 Pricefull resources for javascript learners](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)  
-10 Recursos essensiais para quem está aprendendo Javascriot
+10 Recursos essenciais para quem está aprendendo Javascript
 EN free
 
 
