@@ -188,6 +188,10 @@ free
 Artigos sobre Vue.js  
 BR free
 
+[Net Ninja Vue playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)  
+Playlist de tutoriais básicos do Vue  
+EN free
+
 
 ### Challenge websites
 [Leet Code](https://leetcode.com/)  
