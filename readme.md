@@ -136,6 +136,11 @@ EN free
 Os dois pilares do Javascript  
 EN free
 
+### Javascript Libraries
+[Typer](https://github.com/qodesmith/typer)  
+Library para fazer efeito de simulação de escrita  
+EN free - no dependencies
+
 ### CSS
 [CSS Tricks](https://css-tricks.com/)  
 Fórum e tutorias de CSS (principalmente)  
