@@ -36,6 +36,10 @@ EN free
 [Tableless](https://tableless.com.br/ )  
 BR free
 
+[Javascript is sexy](http://javascriptissexy.com/)  
+Blog sobre javascript, explicando diferentes conceitos  
+EN free
+
 
 ### Articles
 [Web Field Manual](https://webfieldmanual.com/code.html)  
@@ -134,6 +138,34 @@ EN free
 
 [The two pillars of Javascript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)  
 Os dois pilares do Javascript  
+EN free
+
+[Understanding Javascript Scope and Hoisting](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)  
+Entendendo como funciona Scope e Hoisting em Javascript  
+EN free
+
+[Understanding Javascript Callback functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)  
+Entendendo como funciona Callback functions em Javascript  
+EN free
+
+[Understanding Javascript Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)  
+Entendendo como funciona Closures em Javascript  
+EN free
+
+[Understanding 'this' keyword](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)  
+Entendendo como funciona o 'this' em Javascript completamente  
+EN free
+
+[How to learn Javascript](http://javascriptissexy.com/how-to-learn-javascript-properly/)  
+Como aprender Javascript corretamente, iniciante ao avançado  
+EN free
+
+[Functional Programming playlist - Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
+Uns dos melhores videos se quiser aprender sobre Functional Programming (básico)  
+EN free
+
+[Async Await - What, Why and How](https://www.youtube.com/watch?v=568g8hxJJp4)  
+Entendendo Async Await  
 EN free
 
 ### Javascript Libraries
