@@ -173,6 +173,11 @@ EN free
 Library para fazer efeito de simulação de escrita  
 EN free - no dependencies
 
+### Jquery
+[Load images received from json](http://www.jquerybyexample.net/2013/04/how-to-display-load-images-from-json-file-jquery.html)  
+Como puxar imagens (ou qualquer coisa) de um json para html  
+EN free
+
 ### CSS
 [CSS Tricks](https://css-tricks.com/)  
 Fórum e tutorias de CSS (principalmente)  
