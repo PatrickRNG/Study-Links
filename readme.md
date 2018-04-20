@@ -252,7 +252,7 @@ EN free
 Alguns challenges do básico ao avançado do curso do FreecodeCamp  
 EN free
 
-### Inspiration websites/designs
+### websites for design inspirations
 [Dribble](https://dribbble.com/)  
 Rede social para designers  
 BR/EN free/paid
@@ -269,6 +269,12 @@ BR/EN free
 Coleção de UIs do Daily UI  
 EN/BR free
 
+### UI/UX
+
 [Daily UI](http://www.dailyui.co/)  
 Desafio de um design por dia por 100 dias  
+EN free
+
+[Good UI](https://goodui.org/)  
+Website com MUITOS principios para um bom UI, para ajudar principalmente na conversão de seu site.  
 EN free
