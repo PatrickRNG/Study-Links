@@ -175,7 +175,11 @@ EN free - no dependencies
 
 [DragScroll](https://github.com/asvd/dragscroll)  
 Library para Drag and Drop ou "Click and hold"  
-EN free  - no dependencies
+EN free  - no dependencies  
+
+[Pixel to CSS](https://www.pixelartcss.com/)  
+Transforme pixel art para CSS (até animações)  
+EN free  
 
 ### Jquery
 [Load images received from json](http://www.jquerybyexample.net/2013/04/how-to-display-load-images-from-json-file-jquery.html)  
