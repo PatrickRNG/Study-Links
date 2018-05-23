@@ -1,5 +1,27 @@
 ## Study Links
 
+### Categories
+
+**[Youtube](#youtube)  
+[Blogs](#blogs)  
+[Articles](#articles)  
+[Books](#books)  
+[Web Courses](#web-courses)  
+[Other Resources](#other-resources)  
+[Javascript](#javascript)  
+[Javascript Libraries](#javascript-libraries)  
+[Jquery](#jquery)  
+[CSS](#css)  
+[Angular](#angular)  
+[Webpack](#webpack)  
+[SASS](#sass)  
+[Vue.js](#vue-js)  
+[Challenge websites](#challenge-websites)  
+[Websites for design inspirations](#websites-for-design-inspirations)  
+[UI/UX](#ui-ux)**
+
+---
+
 [2018 Web developer roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)  
 Tudo que  você precisa saber para ser um desenvolvedor Front, Back ou Devops em 2018  
 EN free
@@ -8,7 +30,7 @@ EN free
 EN free
 
 
-### Youtube
+### Youtube  
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb)  
 Melhor canal para desenvolvimento web  
 EN free
@@ -28,16 +50,28 @@ EN free
 ### Blogs
 [Medium](https://medium.com/topic/technology)  
 Um dos melhores blogs de assuntos diferentes, com tutoriais, simples até complexos, teoria e discussões  
-BR/EN free
+BR/EN free  
 
 [FreeCodeCamp Medium](https://medium.freecodecamp.org/)  
-EN free
+EN free  
 
 [Tableless](https://tableless.com.br/ )  
-BR free
+BR free  
 
 [Javascript is sexy](http://javascriptissexy.com/)  
 Blog sobre javascript, explicando diferentes conceitos  
+EN free  
+
+[iMasters](https://imasters.com.br/)  
+Blog, notícias, artigos, revistas e mais sobre Tecnologia, Desenvolvimento, Design e mais  
+BR free  
+
+[UXDesign.cc Brasil](https://brasil.uxdesign.cc/)  
+Um Blog MUITO bom sobre UX, usabilidade, IA e mais  
+BR free  
+
+[UXDesign.cc](https://uxdesign.cc/)  
+Versão em EN do blog UXDesign.cc  
 EN free
 
 
@@ -107,6 +141,17 @@ EN free
 [Google web starter kit](https://tableless.com.br/google-web-starter-kit/)  
 EN free
 
+[Gitignore.io](https://www.gitignore.io/)  
+Gerador de Gitignore com base no seu projeto  
+EN free  
+
+[Regex Tester](https://regex101.com/)  
+Ferramenta para testar Regex e Regular Expressions  
+EN free  
+
+[FullStory - Session Replay](https://www.fullstory.com/)  
+Ferramenta que possibilita dar "replay" na sessão do usuário no seu website, podendo ver tudo que ele acessou e mais
+
 ### Javascript
 [MDN documentation](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
 Desde tutoriais até explicações complexas  
@@ -126,7 +171,11 @@ EN free
 
 [Udemy - Understand Javascript](https://www.udemy.com/understand-javascript/)  
 Entendendo conceitos avançados  
-EN paid
+EN paid  
+
+[Udemy - Modern Javascript](https://www.udemy.com/modern-javascript-from-the-beginning/)  
+Feito por Brad Traversy, vários projetos e tutoriais começando do ínicio utilizando JS puro e moderno  
+EN paid  
 
 [Modern javascript explained for dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)  
 Entendendo como funciona Javascript moderno  
@@ -168,6 +217,9 @@ EN free
 Entendendo Async Await  
 EN free
 
+[Drag & Drop](https://www.youtube.com/watch?v=C22hQKE_32c)  
+Como fazer o Drag & Drop em Javascript puro
+
 ### Javascript Libraries
 [Typer](https://github.com/qodesmith/typer)  
 Library para fazer efeito de simulação de escrita  
@@ -179,6 +231,10 @@ EN free  - no dependencies
 
 [Pixel to CSS](https://www.pixelartcss.com/)  
 Transforme pixel art para CSS (até animações)  
+EN free  
+
+[TensorFlow.js](https://js.tensorflow.org/)  
+Library para desenvolver Inteligência Artificial e Machine Learning com Javascript  
 EN free  
 
 ### Jquery
@@ -224,8 +280,11 @@ EN free
 Compilar Sass com Gulp  
 BR free
 
+[How to organize SASS files](https://medium.com/@osternaud_clem/organize-your-sass-files-b2c2513f3fcf)  
+Um jeito de organizar seus arquivos SASS  
+EN free  
 
-### Vue.js
+### Vue js
 [Conheça Vue.js](https://tableless.com.br/conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos/)  
 Conhecendo Vue.js  
 BR free
@@ -260,7 +319,7 @@ EN free
 Alguns challenges do básico ao avançado do curso do FreecodeCamp  
 EN free
 
-### websites for design inspirations
+### Websites for design inspirations
 [Dribble](https://dribbble.com/)  
 Rede social para designers  
 BR/EN free/paid
@@ -277,12 +336,37 @@ BR/EN free
 Coleção de UIs do Daily UI  
 EN/BR free
 
-### UI/UX
+### UI UX
 
 [Daily UI](http://www.dailyui.co/)  
 Desafio de um design por dia por 100 dias  
-EN free
+EN free   
 
 [Good UI](https://goodui.org/)  
 Website com MUITOS principios para um bom UI, para ajudar principalmente na conversão de seu site.  
+EN free  
+
+[UX Planet](https://uxplanet.org/)  
+Blog com vários artigos sobre UX, web design e mais  
+EN free  
+
+[Medium - IA Basics for designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20)  
+Básico sobre Information Architecture  
+EN free  
+
+[52 termos que todo UX designer precisa saber](https://uxplanet.org/51-research-terms-you-need-to-know-as-a-ux-designer-fac0d40a59d7) 
+Descrição e exemplos de 52 termos que todo UX designer e researcher precisa saber.  
+EN free  
+
+[The Fundamentals of Understanding Color Theory](https://99designs.com.br/blog/tips/the-7-step-guide-to-understanding-color-theory/)  
+Os fundamentos para entender a teoria das cores  
+EN free  
+
+[UX Canvas - exemplo](https://medium.com/@brunokatekawa/projeto-de-aplica%C3%A7%C3%A3o-mobile-para-recarga-de-bilhete-de-transporte-parte-6-de106decdca3)  
+UX Canvas e um exemplo real de utilização  
+BR Free  
+
+[UX Checklist](http://uxchecklist.github.io/)  
+Uma checklist super completa sobre todas as etapas necessárias em UX, do Research, ao Feedback e análise  
 EN free
+
