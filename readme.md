@@ -119,8 +119,8 @@ EN paid
 BR/EN paid
 
 [12 books every javascript developer should read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)  
-!2 Livros que todo desenvolvedor Javascript deve ler
-EN free
+12 Livros que todo desenvolvedor Javascript deve ler  
+EN free  
 
 
 ### Web Courses
