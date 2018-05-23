@@ -354,7 +354,7 @@ EN free
 Básico sobre Information Architecture  
 EN free  
 
-[52 termos que todo UX designer precisa saber](https://uxplanet.org/51-research-terms-you-need-to-know-as-a-ux-designer-fac0d40a59d7) 
+[52 termos que todo UX designer precisa saber](https://uxplanet.org/51-research-terms-you-need-to-know-as-a-ux-designer-fac0d40a59d7)  
 Descrição e exemplos de 52 termos que todo UX designer e researcher precisa saber.  
 EN free  
 
