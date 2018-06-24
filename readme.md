@@ -16,6 +16,7 @@
 [Webpack](#webpack)  
 [SASS](#sass)  
 [Vue.js](#vue-js)  
+[PWA](#pwa)  
 [Challenge websites](#challenge-websites)  
 [Websites for design inspirations](#websites-for-design-inspirations)  
 [UI/UX](#ui-ux)**
@@ -149,6 +150,10 @@ EN free
 Ferramenta para testar Regex e Regular Expressions  
 EN free  
 
+[SVGator](https://www.svgator.com/)  
+Ferramenta para animar SVG, online  
+EN free  
+
 [FullStory - Session Replay](https://www.fullstory.com/)  
 Ferramenta que possibilita dar "replay" na sessão do usuário no seu website, podendo ver tudo que ele acessou e mais
 
@@ -217,8 +222,9 @@ EN free
 Entendendo Async Await  
 EN free
 
-[Drag & Drop](https://www.youtube.com/watch?v=C22hQKE_32c)  
-Como fazer o Drag & Drop em Javascript puro
+[Gulp for beginners](https://css-tricks.com/gulp-for-beginners/)  
+Um ótimo post para começar a usar Gulp.js, uma ferramenta da automação de tarefas  
+EN free  
 
 ### Javascript Libraries
 [Typer](https://github.com/qodesmith/typer)  
@@ -236,6 +242,12 @@ EN free
 [TensorFlow.js](https://js.tensorflow.org/)  
 Library para desenvolver Inteligência Artificial e Machine Learning com Javascript  
 EN free  
+
+[Three.js](https://threejs.org/)  
+Library baseada em WebGL para criação de objetos 3D para web e muito mais  
+
+[Unheap](http://www.unheap.com/)  
+Uma coleçáo gigante de libraries para Javascript e Jquery  
 
 ### Jquery
 [Load images received from json](http://www.jquerybyexample.net/2013/04/how-to-display-load-images-from-json-file-jquery.html)  
@@ -299,8 +311,24 @@ BR free
 
 [Net Ninja Vue playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)  
 Playlist de tutoriais básicos do Vue  
-EN free
+EN free  
 
+[Vuetify](https://vuetifyjs.com/en/)  
+Uma library incrível para criação de UI para aplicações em Vue.js  
+EN free  
+
+### PWA
+[PWA apps](https://pwa.rocks/)  
+Uma coleção de aplicativos PWA  
+EN free  
+
+[PWA in 2018](https://medium.com/progressive-web-apps/2018-state-of-progressive-web-apps-f7517d43ba70)  
+Post na Medium sobre o estado hoje do PWA  
+EN free  
+
+[PWA Features](https://uxplanet.org/progressive-web-apps-development-features-possibilities-and-perspectives-for-your-business-22179ffb1c68)  
+Post da UX Planet, sobre o porque investir em PWA e seus benefícios.  
+EN free  
 
 ### Challenge websites
 [Leet Code](https://leetcode.com/)  
@@ -335,6 +363,10 @@ BR/EN free
 [Collect UI](http://collectui.com/)  
 Coleção de UIs do Daily UI  
 EN/BR free
+
+[Awwwards](https://www.awwwards.com/)  
+Website que nomeia os melhores websites, por várias categorias  
+EN free  
 
 ### UI UX
 
