@@ -226,6 +226,10 @@ EN free
 Um ótimo post para começar a usar Gulp.js, uma ferramenta da automação de tarefas  
 EN free  
 
+[Modules ― Exploring JS](http://exploringjs.com/es6/ch_modules.html)  
+Entendendo TUDO sobre Modules no Javascript  
+EN free  
+
 ### Javascript Libraries
 [Typer](https://github.com/qodesmith/typer)  
 Library para fazer efeito de simulação de escrita  
