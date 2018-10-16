@@ -117,7 +117,11 @@ EN paid
 EN paid
 
 [O design do dia a dia](https://www.livrariacultura.com.br/p/livros/artes-e-fotografia/design/o-design-do-dia-a-dia-1796507)  
-BR/EN paid
+BR/EN paid  
+
+[ExploringJS](http://exploringjs.com/es6/index.html)  
+Um "Livro" explicando tudo BEM A FUNDO sobre Javascript, não apenas o que é mas como funciona por trás
+EN free  
 
 [12 books every javascript developer should read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)  
 12 Livros que todo desenvolvedor Javascript deve ler  
